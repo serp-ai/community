@@ -1,6 +1,6 @@
 # Artificial Intelligence, Machine Learning & Data Science Community
 
-In this repository, you will find categories for various topics on AI / ML / etc.
+Welcome to the community!
 
 We welcome & encourage you to join in the discussions, create new topics, learn & help each other out!
 
