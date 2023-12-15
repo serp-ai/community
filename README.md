@@ -6,6 +6,6 @@ We welcome & encourage you to join in the discussions, create new topics, learn 
 
 - You can find all the [discussions here](https://github.com/serp-ai/community/discussions).
 
-<br><br>
+<br>
 
-> Note: _If you prefer to use [Discord](https://serp.ly/discord), you can join in the fun there as well_
+> Note: If you prefer to use [Discord](https://serp.ly/discord), you can join in the fun there as well
