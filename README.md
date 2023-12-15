@@ -1,4 +1,4 @@
-# Artificial Intelligence, Machine Learning & Data Science Community | SERP AI
+# Artificial Intelligence, Machine Learning & Data Science Community
 
 In this repository, you will find categories for various topics on AI / ML / etc.
 
